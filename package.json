@@ -17,5 +17,13 @@
     "git-remote-origin-url": "^3.1.0",
     "git-url-parse": "^11.6.0",
     "simple-git": "^2.45.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BautistaJS/Prep-Course-B.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BautistaJS/Prep-Course-B/issues"
+  },
+  "homepage": "https://github.com/BautistaJS/Prep-Course-B#readme"
 }
